@@ -9,11 +9,10 @@
 
 
 ## Информация
-* [Переводчики](translators.md)
-* [Об авторе](about-the-author.md)
-* [Примечания](notes.md)
-
-* [Предисловие](foreword.md)
+* [Переводчики](extra/translators.md)
+* [Об авторе](extra/about-the-author.md)
+* [Примечания](extra/notes.md)
+* [Предисловие](extra/foreword.md)
 
 ## Главы <a id="chapters"></a>
 
