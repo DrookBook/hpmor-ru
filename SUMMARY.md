@@ -14,7 +14,7 @@
 * [Переводчики](info/translators.md)
 * [Рекомендуемая литература](info/recommended-literature.md)
 
-## Главы <a id="chapters"></a>
+## Книга <a id="book"></a>
 * [Предисловие](book/0-foreword.md)
 
 * [1. Крайне маловероятный день](book/1.md)
