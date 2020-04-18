@@ -2,5 +2,5 @@
 
 * [Гарри Поттер и методы рационального мышления. Элиезер Юдковский](README.md)
 * [Untitled](untitled.md)
-* [Chapter 1](1..md)
+* [Chapter 1](1.md)
 
