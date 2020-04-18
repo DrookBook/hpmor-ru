@@ -4,7 +4,7 @@
 * [Глава 2. тест](2.md)
 * [Глава 2. тест1](readme-1.md)
 
-## group
+## Главы <a id="chapters"></a>
 
-* [Untitled not in group](group/untitled.md)
+* [Untitled not in group](chapters/untitled.md)
 
