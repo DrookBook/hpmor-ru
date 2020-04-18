@@ -1,5 +1,5 @@
 # Table of contents
-* [Гарри Поттер и методы рационального мышления. Элиезер Юдковский](README.md)
+* [ГПиМРМ](README.md)
 
 ## Ссылки <a id="links"></a>
 * [Читать онлайн](https://hpmor-ru.drookbook.com/book/0-foreword)
