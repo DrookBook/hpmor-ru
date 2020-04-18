@@ -10,14 +10,13 @@
 
 
 ## Информация
-* [Переводчики](info/translators.md)
 * [Об авторе](info/about-the-author.md)
-* [Примечания](info/notes.md)
-* [Предисловие](info/foreword.md)
-* [Предметный указатель](info/index-of-subjects.md)
+* [Переводчики](info/translators.md)
 * [Рекомендуемая литература](info/recommended-literature.md)
 
 ## Главы <a id="chapters"></a>
+* [Предисловие](book/0-foreword.md)
 
-* [1. Крайне маловероятный день](chapters/1.md)
+* [1. Крайне маловероятный день](book/1.md)
 
+* [Примечания](book/123-notes.md)
