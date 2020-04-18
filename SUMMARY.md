@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Гарри Поттер и методы рационального мышления. Элиезер Юдковский](README.md)
-* [Глава 2. тест](2.md)
-* [Глава 2. тест1](readme-1.md)
+* [Переводчики](translators.md)
+* [Об авторе](about-the-author.md)
 
 ## Главы <a id="chapters"></a>
 
