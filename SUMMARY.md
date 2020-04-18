@@ -4,7 +4,7 @@
 ## Читать
 * [Онлайн](https://hpmor-ru.drookbook.com)
 * [Скачать EPUB](https://www.download.com)
-* [Заказать бумажную версию](https://www.drookbook/hpmor-ru)
+* [Заказать печать бумажной версии](https://www.drookbook/hpmor-ru)
 
 
 
