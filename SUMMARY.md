@@ -3,6 +3,7 @@
 * [Гарри Поттер и методы рационального мышления. Элиезер Юдковский](README.md)
 
 ## Читать
+* [Онлайн](https://hpmor-ru.drookbook.com)
 * [Скачать EPUB](www.download.com)
 * [Заказать бумажную версию](www.drookbook/hpmor-ru)
 
