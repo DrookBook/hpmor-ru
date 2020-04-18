@@ -13,6 +13,8 @@
 * [Об авторе](extra/about-the-author.md)
 * [Примечания](extra/notes.md)
 * [Предисловие](extra/foreword.md)
+* [Предметный указатель](extra/index-of-subjects.md)
+* [Рекомендуемая литература](extra/recommended-literature.md)
 
 ## Главы <a id="chapters"></a>
 
