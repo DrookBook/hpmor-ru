@@ -6,6 +6,3 @@
 
 ## Главы <a id="chapters"></a>
 
-* [Untitled](chapters/untitled.md)
-* [Main Site](https://www.drookbook.com)
-
