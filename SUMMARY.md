@@ -5,16 +5,17 @@
 * [Онлайн](https://hpmor-ru.drookbook.com)
 * [Скачать EPUB](https://www.download.com)
 * [Заказать бумажную версию](https://www.drookbook/hpmor-ru)
+* [На других языках](extra/other-langs.md)
 
 
 
 ## Информация
-* [Переводчики](extra/translators.md)
-* [Об авторе](extra/about-the-author.md)
-* [Примечания](extra/notes.md)
-* [Предисловие](extra/foreword.md)
-* [Предметный указатель](extra/index-of-subjects.md)
-* [Рекомендуемая литература](extra/recommended-literature.md)
+* [Переводчики](info/translators.md)
+* [Об авторе](info/about-the-author.md)
+* [Примечания](info/notes.md)
+* [Предисловие](info/foreword.md)
+* [Предметный указатель](info/index-of-subjects.md)
+* [Рекомендуемая литература](info/recommended-literature.md)
 
 ## Главы <a id="chapters"></a>
 
