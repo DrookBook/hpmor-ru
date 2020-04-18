@@ -4,7 +4,7 @@
 * [Untitled](untitled.md)
 * [Chapter 1](1.md)
 
-## Главы
+## Главы <a id="chapters"></a>
 
-* [Untitled](glavy/untitled.md)
+* [Untitled](chapters/untitled.md)
 
