@@ -18,3 +18,8 @@
 Логотип данного сайта основан на иллюстрациях DINOSAURUSGEDE
 
 ## Контакты
+[hello@drookbook.com](mailto:hello@drookbook.com)
+
+[Instagram](https://instagram.com/drookbook)
+
+[Telegram](https://t.me/drookbook)
