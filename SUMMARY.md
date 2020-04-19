@@ -18,9 +18,9 @@
 ## Книга <a id="book"></a>
 
 * [Предисловие](book/0-foreword.md)
-* [1. Крайне маловероятный день](book/1.md)
-* [2. Всё, во что я верю, — ложь](book/2.md)
-* [3. Сравнивая варианты реальности](book/3.-sravnivaya-varianty-realnosti.md)
+* [1. Крайне маловероятный день](book/01.md)
+* [2. Всё, во что я верю, — ложь](book/02.md)
+* [3. Сравнивая варианты реальности](book/03.md)
 * [4. Гипотеза эффективного рынка](book/4.-gipoteza-effektivnogo-rynka.md)
 * [5. Фундаментальная ошибка атрибуции](book/5.-fundamentalnaya-oshibka-atribucii.md)
 * [6. Ошибка планирования](book/6.-oshibka-planirovaniya.md)
