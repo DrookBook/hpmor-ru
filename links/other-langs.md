@@ -1,4 +1,4 @@
 # На других языках
-* [Английский](https://hpmor-en.drookbook.com)
-* [Русский](https://hpmor-ru.drookbook.com)
-* [Украинский](https://hpmor-ua.drookbook.com)
+* [English](https://hpmor-en.drookbook.com)
+* [На русском](https://hpmor-ru.drookbook.com)
+* [Українською](https://hpmor-ua.drookbook.com)
