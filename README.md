@@ -17,7 +17,7 @@
 
 © Элиезер Юдковский, 2018, текст предисловия к русскому изданию.
 
-Логотип [данного сайта](https://hpmor-ru.drookbook.com) основан на иллюстрациях DINOSAURUSGEDE
+Логотип [сайта](https://hpmor-ru.drookbook.com) основан на иллюстрациях DINOSAURUSGEDE
 
 
 ## Контакты
