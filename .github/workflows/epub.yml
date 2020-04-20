@@ -16,7 +16,7 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           #  ${{ env.FILELIST }}
-          args: --output=output/result.pdf lorem_1.md lorem_2.md
+          args: -f markdown -s -o result.pdf lorem_1.md lorem_2.md
       - uses: actions/upload-artifact@master
         with:
           name: output
