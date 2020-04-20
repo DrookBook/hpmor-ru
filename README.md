@@ -10,6 +10,40 @@
 
 Вы можете улучшить перевод, [создав pull request](https://youtu.be/SUnJ8bNCnCg) в [github репозитории](https://github.com/DrookBook/hpmor-ru)
 
+## Переводчики
+
+* Дмитрий Новицкий
+* Александр «Аларик» Бидерман
+* Глеб Мазурский
+* Виктор Гавриш
+* Мария «Sunmari» Шадрина
+* Светлана «chaika-che» Выприцкая
+* Юлия Ноздрина
+* Илья Nighthawk
+* Анна Новицкая
+* Лобарёв Юлий
+* StrangeCat
+* Sergcold
+* Любимова Мария
+* Polina
+* You\_know\_who
+* baskakov\_dima
+* kle
+* Elspet
+* Asya
+* Dima
+* Kaplya smysla
+* Remlin
+* Constantine
+* Kuuff
+* Антон Скобин
+* Валя Гаврилова
+* Berik
+* Alexqwesa
+* Lavash
+* Denker
+* Алина Маркова \(ellgue\)
+
 ## Copyright
 
 © Дж. К. Роулинг, 1997-2007, мир Гарри Поттера. Все права сохранены.
