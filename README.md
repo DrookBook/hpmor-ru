@@ -8,7 +8,7 @@
 
 ## Нашли ошибку в тексте?
 
-Вы можете улучшить перевод, [создав pull request](https://youtu.be/SUnJ8bNCnCg) в [github репозитории](https://github.com/DrookBook/hpmor-ru)
+Вы можете улучшить перевод, [создав pull request](https://youtu.be/SUnJ8bNCnCg) в [github репозитории](https://github.com/DrookBook/hpmor-ru) или [заполнив google форму](https://forms.gle/NaoFY3pBqLp3iVPe8).
 
 ## Переводчики
 
