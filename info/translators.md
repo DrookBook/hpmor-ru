@@ -30,4 +30,5 @@
 * Alexqwesa
 * Lavash
 * Denker
-* Алина Маркова (ellgue)
+* Алина Маркова \(ellgue\)
+
