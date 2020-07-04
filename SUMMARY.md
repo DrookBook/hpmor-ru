@@ -4,10 +4,10 @@
 
 ## Ссылки <a id="links"></a>
 
-* [Заказать бумажную версию](https://www.drookbook.com/books/print/hpmor-3books)
 * [Читать онлайн](https://hpmor.ru.drookbook.com/book/0-foreword)
 * [Скачать EPUB](https://drive.google.com/file/d/1SN5Nchv85jeDGjC8eKypiUIzorXynSvA/view)
 * [Скачать FB2](links/https-drive.google.com-file-d-1xb6nnwuzeqyvlgpwk4jm5oogqflcua-j-view.md)
+* [Заказать бумажную версию](https://www.drookbook.com/books/print/hpmor-3books)
 * [На других языках](links/other-langs.md)
 
 ## Информация <a id="info"></a>
