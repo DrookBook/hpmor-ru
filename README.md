@@ -72,7 +72,7 @@
 ## Лицензия
 
 ## License
-Все файлы этого репозитория распространяются по лицензии [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ru).
+Все файлы репозитория распространяются по лицензии [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ru).
 
 ## Контакты
 
