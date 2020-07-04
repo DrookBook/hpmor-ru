@@ -11,6 +11,7 @@
 Вы можете улучшить перевод, [создав pull request](https://youtu.be/SUnJ8bNCnCg) в [github репозитории](https://github.com/DrookBook/hpmor-ru) или [заполнив google форму](https://forms.gle/NaoFY3pBqLp3iVPe8).
 
 ## Переводчики
+
 * Бидерман Александр AKA Аларик
 * Выприцкая Светлана AKA chaika-che
 * Гаврилова Валя
@@ -62,3 +63,4 @@
 [Facebook](https://fb.me/drookbook.ru)
 
 [Telegram](https://t.me/drookbookru)
+
