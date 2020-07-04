@@ -6,9 +6,9 @@
 
 Умный Гарри Поттер сталкивается с магией, размышляет, как она работает, почему нарушает привычные законы физики, и применяет научный метод, чтобы в ней разобраться и подчинить себе.
 
-## Нашли ошибку в тексте?
+## Бумажная книга
 
-Вы можете улучшить перевод, [создав pull request](https://youtu.be/SUnJ8bNCnCg) в [github репозитории](https://github.com/DrookBook/hpmor-ru) или [заполнив google форму](https://forms.gle/NaoFY3pBqLp3iVPe8).
+[Заказ печати](https://www.drookbook.com/books/print/hpmor-3books)
 
 ## Переводчики
 
@@ -63,8 +63,3 @@
 [Facebook](https://fb.me/drookbook.ru)
 
 [Telegram](https://t.me/drookbookru)
-
-## Бумажная книга
-
-[Заказ печати](https://www.drookbook.com/books/print/hpmor-3books)
-
