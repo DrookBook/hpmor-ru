@@ -11,38 +11,37 @@
 Вы можете улучшить перевод, [создав pull request](https://youtu.be/SUnJ8bNCnCg) в [github репозитории](https://github.com/DrookBook/hpmor-ru) или [заполнив google форму](https://forms.gle/NaoFY3pBqLp3iVPe8).
 
 ## Переводчики
-
-* Дмитрий Новицкий
-* Александр «Аларик» Бидерман
-* Глеб Мазурский
-* Виктор Гавриш
-* Мария «Sunmari» Шадрина
-* Светлана «chaika-che» Выприцкая
-* Юлия Ноздрина
+* Бидерман Александр AKA Аларик
+* Выприцкая Светлана AKA chaika-che
+* Гаврилова Валя
+* Гавриш Виктор
 * Илья Nighthawk
-* Анна Новицкая
 * Лобарёв Юлий
-* StrangeCat
-* Sergcold
 * Любимова Мария
-* Polina
-* You\_know\_who
-* baskakov\_dima
-* kle
-* Elspet
-* Asya
-* Dima
-* Kaplya smysla
-* Remlin
-* Constantine
-* Kuuff
-* Антон Скобин
-* Валя Гаврилова
-* Berik
+* Мазурский Глеб
+* Маркова Алина AKA \(ellgue\)
+* Новицкая Анна
+* Новицкий Дмитрий
+* Ноздрина Юлия
+* Скобин Антон
+* Шадрина Мария AKA Sunmari
 * Alexqwesa
-* Lavash
+* Asya
+* baskakov\_dima
+* Berik
+* Constantine
 * Denker
-* Алина Маркова \(ellgue\)
+* Dima
+* Elspet
+* Kaplya smysla
+* kle
+* Kuuff
+* Lavash
+* Polina
+* Remlin
+* Sergcold
+* StrangeCat
+* You\_know\_who
 
 ## Copyright
 
@@ -52,7 +51,7 @@
 
 © Элиезер Юдковский, 2018, текст предисловия к русскому изданию.
 
-Логотип [сайта](https://hpmor-ru.drookbook.com) основан на иллюстрациях DINOSAURUSGEDE
+Логотип [сайта](https://hpmor.ru.drookbook.com) основан на иллюстрациях Mike Scher
 
 ## Контакты
 
@@ -60,6 +59,6 @@
 
 [Instagram](https://instagram.com/drookbook)
 
-[Facebook](https://fb.me/drookbook)
+[Facebook](https://fb.me/drookbook.ru)
 
-[Telegram](https://t.me/drookbook)
+[Telegram](https://t.me/drookbookru)
