@@ -7,13 +7,13 @@
 Умный Гарри Поттер сталкивается с магией, размышляет, как она работает, почему нарушает привычные законы физики, и применяет научный метод, чтобы в ней разобраться и подчинить себе.
 
 ## Электронная версия
-[Читать онлайн](https://hpmor.ru.drookbook.com/book/0-foreword)
+[Читать онлайн](https://hpmor.ru.drookbook.com/book/000-foreword)
 
-[Скачать EPUB](https://drive.google.com/file/d/1SN5Nchv85jeDGjC8eKypiUIzorXynSvA/view)
+[Скачать EPUB](https://drive.google.com/uc?export=download&id=1SN5Nchv85jeDGjC8eKypiUIzorXynSvA)
 
-[Скачать FB2](https://drive.google.com/file/d/1WV0c8e_2FsmHuRJ-xpGAtc6F_No0-Uwk/view)
+[Скачать FB2](https://drive.google.com/uc?export=download&id=1WV0c8e_2FsmHuRJ-xpGAtc6F_No0-Uwk)
 
-[Скачать MOBI](https://drive.google.com/file/d/1BTZCzhdyoxuN9VR2fUnipucAo0y3dZQ7/view)
+[Скачать MOBI](https://drive.google.com/uc?export=download&id=1BTZCzhdyoxuN9VR2fUnipucAo0y3dZQ7)
 
 ## Бумажная книга
 
@@ -82,4 +82,3 @@
 [Facebook](https://fb.me/drookbook.ru)
 
 [Telegram](https://t.me/drookbookru)
-
