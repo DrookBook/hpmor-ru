@@ -13,7 +13,7 @@
 
 * [Об авторе](info/about-the-author.md)
 * [Переводчики](info/translators.md)
-* [Рекомендуемая литература](info/recommended-literature.md)
+* [Литература](info/recommended-literature.md)
 
 ## Книга <a id="book"></a>
 
