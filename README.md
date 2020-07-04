@@ -64,3 +64,7 @@
 
 [Telegram](https://t.me/drookbookru)
 
+## Бумажная книга
+
+[Заказ печати](https://www.drookbook.com/books/print/hpmor-3books)
+
